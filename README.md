@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 Desenvolvedor Front - End
+- 🌱 Desenvolvedor Full - Stack
 
 <div align="center">
 
